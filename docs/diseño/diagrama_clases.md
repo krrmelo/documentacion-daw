@@ -6,3 +6,4 @@ classDiagram
     Pedido : +String id
     Pedido : +enviar()
 ```
+diagrama de clases hecho por gemini
